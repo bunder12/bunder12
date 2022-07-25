@@ -20,4 +20,5 @@ Here are some ideas to get you started:
 
 ![Bunder12 GitHub stats](https://github-readme-stats.vercel.app/api?username=bunder12&show_icons=true&theme=tokyonight)
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=bunder12
+![Bunder12 GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bunder12)
+
